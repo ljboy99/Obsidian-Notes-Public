@@ -1,0 +1,2 @@
+Data encapsulation is the process in which [[headers]] are added to data.
+Once a packet or a [[frame]] is encapsulated, it is passed onto another layer, which will deencapsulate it to receive it's instructions.

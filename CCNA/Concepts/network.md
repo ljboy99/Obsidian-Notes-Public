@@ -1,0 +1,1 @@
+A network is an amalgamation of different devices which communicate with eachother, often times for specific goals. 
