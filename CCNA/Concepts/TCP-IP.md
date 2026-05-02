@@ -12,7 +12,9 @@ The **[[Transport Layer]]** ensures that data is sent in order, end-to-end, betw
 
 The **[[Network Layer]]** is the medium in which messages travel across a network to get from a host IP to a Destination IP. This layer relies on addressing, encapsulation and rebuilding the data that was sent from the host on the destination end. 
 
-[[Data Link Layer]]
+The [[Data Link Layer]] uses the Media Access Controller (MAC) to generate frames for the received data. Here, source and destination info will be added to the packet before it moves to the next layer. 
 
-[[Physical Layer]]
+The [[Physical Layer]] sends and receives signals over wire or antennas to transmit bits.
+
+
 
