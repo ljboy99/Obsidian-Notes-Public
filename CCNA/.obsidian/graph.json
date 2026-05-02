@@ -1,22 +1,37 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:Chapter",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#TCP/IP  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 1.159912109375,
+  "lineSizeMultiplier": 1.99332682291667,
+  "collapse-forces": false,
+  "centerStrength": 0.433919270833333,
+  "repelStrength": 12.4755859375,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.0534979423868305,
+  "linkDistance": 273,
+  "scale": 0.7012204549245583,
   "close": true
 }

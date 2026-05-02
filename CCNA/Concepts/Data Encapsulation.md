@@ -1,2 +1,2 @@
-Data encapsulation is the process in which [[headers]] are added to data.
+Data encapsulation is the process in which [[headers]] are added to data as it moves along the layers of the [[TCP-IP|TCP/IP]] model.
 Once a packet or a [[frame]] is encapsulated, it is passed onto another layer, which will deencapsulate it to receive it's instructions.
