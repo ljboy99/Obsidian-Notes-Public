@@ -10,13 +10,13 @@ Ethernet cables are usually made up of either copper UTP cables or glass fiber o
 
 The formal IEEE names for different ethernet cables are prefixed by “802.3” followed by different letters
 
-|Title|Speed|Formal Name|Conductor|
-|---|---|---|---|
-|Ethernet|10 mbps|802.3|Copper|
-|Fast Ethernet|100 mbps|802.3u|Copper|
-|Gigabit Ethernet|1000 mbps|802.3z|Fiber|
-|Gigabit Ethernet|1000 mbps|802.3ab|Copper|
-|10 Gig Ethernet|10 Gbps|802.3an|Copper|
+| Title            | Speed     | Formal Name | Conductor |
+| ---------------- | --------- | ----------- | --------- |
+| Ethernet         | 10 mbps   | 802.3       | Copper    |
+| Fast Ethernet    | 100 mbps  | 802.3u      | Copper    |
+| Gigabit Ethernet | 1000 mbps | 802.3z      | Fiber     |
+| Gigabit Ethernet | 1000 mbps | 802.3ab     | Copper    |
+| 10 Gig Ethernet  | 10 Gbps   | 802.3an     | Copper    |
 
 Ethernet maintains the same data link standard across all it’s different types. The headers and footers maintain the same format no matter the transfer speed.
 

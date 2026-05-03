@@ -1,4 +1,4 @@
-## Fundementals of WANs and IP Routing
+## Fundamentals of WANs and IP Routing
 
 **Wide-Area Networks**
 

@@ -11,10 +11,14 @@
             "id": "5b1a13cfa8a710e3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Textbook/Chapter 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 3"
             }
           },
           {
@@ -31,7 +35,8 @@
               "title": "Transport Layer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,22 +195,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "5b1a13cfa8a710e3",
+  "active": "2f244d2bbc3dc3a3",
   "lastOpenFiles": [
+    "Concepts/Physical Layer.md",
+    "Textbook/Textbook Chapters.md",
     "Concepts/Transport Layer.md",
+    "Textbook/Chapter 3.md",
+    "Textbook/Chapter 1.md",
+    "Textbook/Chapter 2.md",
+    "Textbook/Chapter 2.md",
     "Concepts/TCP-IP.md",
     "Concepts/Data Link Layer.md",
     "Concepts/Application Layer.md",
-    "Textbook/Chapter 1.md",
     "Concepts/Data Encapsulation.md",
-    "Concepts/Physical Layer.md",
     "Concepts/Network Layer.md",
     "Concepts/Protocols.md",
     "Concepts/Router.md",
     "router/test.md",
     "router",
-    "Textbook/Chapter 2.md",
-    "Textbook/Chapter 3.md",
     "Concepts/Ethernet.md",
     "Concepts/network.md",
     "Concepts/Switch.md",

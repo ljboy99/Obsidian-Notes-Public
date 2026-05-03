@@ -1,3 +1,4 @@
+
 [[network|Networks]] bring different devices to work together. They also work off of everchanging rules and protocols.
 
 Networking Model - Set of documents where each part describes a function which contributes to the network. Network models ensure structure for a network to function.
