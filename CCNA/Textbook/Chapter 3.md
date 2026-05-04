@@ -10,7 +10,7 @@ Leased-line WANs came about when telcos would put their equipment in a central o
 
 Leased-lines may also be referred to as: leased circuits, serial link, serial line, point to point link, TI, WAN-Link, Private line
 
-Data-Link of Leased Lines
+[[Data Link Layer|Data-Link]] of Leased Lines
 
 Routers on a leased line use 2 data-link protocols.
 
