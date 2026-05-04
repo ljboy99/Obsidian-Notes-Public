@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Textbook/Chapter 3.md",
+                "file": "Textbook/Chapter 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 3"
+              "title": "Chapter 4"
             }
           }
         ]
@@ -182,21 +182,22 @@
   },
   "active": "72357875ecfb4395",
   "lastOpenFiles": [
+    "Textbook/Chapter 5.md",
+    "Textbook/Chapter 4.md",
+    "Concepts/Switch.md",
+    "Textbook/Chapter 3.md",
+    "Textbook/Chapter 13.md",
     "Concepts/Protocols.md",
     "Concepts/TCP-IP.md",
     "Textbook/Chapter 12.md",
-    "Textbook/Chapter 13.md",
     "Textbook/Textbook Chapters.md",
     "Untitled.md",
     "Textbook/Chapter 11.md",
-    "Textbook/Chapter 3.md",
     "Textbook/Chapter 10.md",
     "Textbook/Chapter 9.md",
     "Textbook/Chapter 8.md",
     "Textbook/Chapter 7.md",
     "Textbook/Chapter 6.md",
-    "Textbook/Chapter 5.md",
-    "Textbook/Chapter 4.md",
     "Concepts/Transport Layer.md",
     "Concepts/Physical Layer.md",
     "Textbook/Chapter 1.md",
@@ -207,7 +208,6 @@
     "Concepts/Data Encapsulation.md",
     "Concepts/Network Layer.md",
     "Concepts/Router.md",
-    "router/test.md",
     "router",
     "Untitled.base",
     "Concepts",

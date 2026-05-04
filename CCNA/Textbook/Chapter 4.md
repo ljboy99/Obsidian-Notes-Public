@@ -1,4 +1,4 @@
-Cisco routers and switches use a command-line interface (CLI)
+Cisco routers and [[Switch|switches]] use a command-line interface (CLI)
 
 There are 3 main kinds of Cisco LAN switches:
 1. Cisco Catalyst - for enterprise use
@@ -6,9 +6,9 @@ There are 3 main kinds of Cisco LAN switches:
 3. Cisco Meraki - for enterprises with LAN usage
 
 The CCNA mostly refers to CISCO Catalyst switches.
-A switch's physical connectors are referred to as ports or interfaces.
+A [[switch]]'s physical connectors are referred to as ports or interfaces.
 
-Ports are identified by "Interface IOS" designated by Cisco.
+Ports are identified by "Interface IOs" designated by Cisco.
 	Ex. "Gigabit Ethernet 1/0/2"
 
 Cisco has their own operating systems for their Catalyst switches called IOS and IOS XE. They are CLI based, with IOS XE having more modern and efficient features.
