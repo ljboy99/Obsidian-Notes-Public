@@ -6,3 +6,4 @@ Some protocols we've studied include:
 Hypertext Transfer Protocol is used when a web pages is requested and delivered. In this process, the browser sends a “get” request in an HTTP header. The server would then respond with a “code 200”, equivalent to saying “OK”, if the request can be done. After success, the serve will deliver the requested data.
 
 ## [[TCP-IP|TCP/IP Protocol]]
+

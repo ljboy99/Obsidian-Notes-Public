@@ -63,7 +63,7 @@ show mac address-table dynamic
 
 This will show a table of MAC addresses and correlated ports. 
 
-## MAC Address Table
+## [[MAC Address Table]]
 
 The table has 4 Column
 
@@ -71,7 +71,7 @@ The table has 4 Column
 | --- | --- | --- | --- |
 | Tells which individual VLAN that the switch will forward or flood packets in.  | The “MAC Address” will be list with the “ports” that the switch associates with them  | Shows how the switch learned about this MAC address, either Static or Dynamic | Shows the port connection associated with a MAC address. Will identify the port type by “Fa” for fast ethernet and “Gi” for Gigabit-ethernet. They will be followed by the correlated port number.  |
 
-## Switch Interfaces
+## [[Switch]] Interfaces
 
 You can check interface status with the following command:
 

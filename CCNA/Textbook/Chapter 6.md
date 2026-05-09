@@ -113,7 +113,7 @@ AAA Servers either RADIUS or TACACS+ protocols to encrypt passwords as they move
 
 ---
 
-## Securing Remote Access with Secure Shell
+## Securing Remote Access with [[Secure Shell]]
 
 Unlike Telnet, SSH encrypts all data transfers by default.
 

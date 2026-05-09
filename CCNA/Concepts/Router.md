@@ -53,3 +53,7 @@ Once the network layers work is done, the data is handed off to the Data-Link la
 
 Basically, a router will add it's own info to the table, tell it's neighboring routing protocol about it, and that protocol will pass it around to others until everyone is up to date.
 
+syslog can be enabled with 
+```
+logging on
+```

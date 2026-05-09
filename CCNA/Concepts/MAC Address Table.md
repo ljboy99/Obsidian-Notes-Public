@@ -1,0 +1,1 @@
+The MAC Address Table on a device contains the information on MAC Addresses learned from listening to other devices. 
