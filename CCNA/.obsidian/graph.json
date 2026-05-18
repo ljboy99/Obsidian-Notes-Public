@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14069084
       }
+    },
+    {
+      "query": "tag:#ExamGoals  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
     }
   ],
   "collapse-display": false,
@@ -32,6 +39,6 @@
   "repelStrength": 12.4755859375,
   "linkStrength": 1,
   "linkDistance": 273,
-  "scale": 0.7626248799822358,
+  "scale": 0.55596126329492,
   "close": true
 }
