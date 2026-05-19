@@ -10,10 +10,10 @@ tags:
 
 [[Access Points]]
 
-Controllers
+[[Controllers]]
 
-Endpoints
+[[Endpoints]]
 
-Servers
+[[Servers]]
 
 POE
