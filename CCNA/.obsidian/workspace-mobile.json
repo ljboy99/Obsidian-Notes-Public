@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Textbook/Chapter 15.md",
+                "file": "Textbook/Chapter 17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 15"
+              "title": "Chapter 17"
             }
           }
         ]
@@ -167,6 +167,7 @@
   },
   "active": "48c723c637e0b5e3",
   "lastOpenFiles": [
+    "Textbook/Chapter 15.md",
     "Textbook/Chapter 8.md",
     "Subnetting.md",
     "Servers.md",
@@ -195,7 +196,6 @@
     "DHCP Server.md",
     "Concepts/Network Address Translation.md",
     "10.1.1.55 /28.md",
-    "10.1.1.55 ",
-    "Textbook/Chapter 14.md"
+    "10.1.1.55 "
   ]
 }
