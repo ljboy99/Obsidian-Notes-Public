@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Textbook/Chapter 17.md",
+                "file": "Chapter 21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 17"
+              "title": "Chapter 21"
             }
           },
           {
@@ -233,9 +233,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "33ea01cc3c2f259c",
+  "active": "a2bf60eed1703038",
   "lastOpenFiles": [
     "Textbook/Textbook Chapters.md",
+    "Chapter 21.md",
+    "Textbook/Chapter 20.md",
+    "Textbook/Chapter 19.md",
+    "Textbook/Chapter 10.md",
+    "Concepts/VLANS.md",
+    "Concepts/Trunking.md",
+    "Textbook/Chapter 5.md",
+    "Concepts/Router-On-a-Stick.md",
+    "Textbook/Chapter 18.md",
     "Textbook/Chapter 17.md",
     "Textbook/Chapter 16.md",
     "Textbook/Chapter 15.md",
@@ -245,22 +254,13 @@
     "Login Setups.md",
     "LAB NOTES.md",
     "POE.md",
-    "Concepts/Router-On-a-Stick.md",
     "10.1.1.55 /28.md",
     "Troubleshooting.md",
     "Concepts/Router.md",
     "Concepts/Useful Troubleshooting Commands.md",
-    "Concepts/Trunking.md",
     "Exam Goals/Section 1/Section 1 - Network Fundamentals.md",
     "Describe Characteristics of Network Topology Architectures.md",
     "Exam Goals/Section 1/Explain the role and function of Network Components.md",
-    "Exam Goals/Exam Goals.md",
-    "Textbook/Chapter 7.md",
-    "Subnetting.md",
-    "Example Problem 1.md",
-    "Example Problem 8.md",
-    "Example Problem 7.md",
-    "Example Problem 6.md",
     "10.1.1.55 ",
     "Exam Goals/Section 1/Concepts",
     "Exam Goals/Section 1",
