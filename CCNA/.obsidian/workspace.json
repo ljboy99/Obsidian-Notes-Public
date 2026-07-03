@@ -8,73 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e38a6f5092830ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Cisco Discovery Protocol.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cisco Discovery Protocol"
-            }
-          },
-          {
-            "id": "7caad1b31fcff972",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Loopback Interfaces.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Loopback Interfaces"
-            }
-          },
-          {
-            "id": "a2bf60eed1703038",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 21.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 21"
-            }
-          },
-          {
-            "id": "7f3e612601cbf2a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Router-On-a-Stick.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Router-On-a-Stick"
-            }
-          },
-          {
             "id": "0a1ce7e995502a9d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Textbook/Textbook Chapters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Textbook Chapters"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,23 +180,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "a2bf60eed1703038",
+  "active": "0a1ce7e995502a9d",
   "lastOpenFiles": [
+    "Textbook/Chapter 23.md",
     "Textbook/Textbook Chapters.md",
-    "Chapter 21.md",
+    "Textbook/Chapter 22.md",
+    "Textbook/Chapter 21.md",
+    "Textbook/Chapter 15.md",
     "Textbook/Chapter 20.md",
+    "Textbook/Chapter 18.md",
+    "Textbook/Chapter 16.md",
+    "Concepts/Router-On-a-Stick.md",
+    "Loopback Interfaces.md",
+    "Chapter 21.md",
     "Textbook/Chapter 19.md",
     "Textbook/Chapter 10.md",
     "Concepts/VLANS.md",
     "Concepts/Trunking.md",
     "Textbook/Chapter 5.md",
-    "Concepts/Router-On-a-Stick.md",
-    "Textbook/Chapter 18.md",
     "Textbook/Chapter 17.md",
-    "Textbook/Chapter 16.md",
-    "Textbook/Chapter 15.md",
     "Sticky Mac Addresses.md",
-    "Loopback Interfaces.md",
     "Concepts/Cisco Discovery Protocol.md",
     "Login Setups.md",
     "LAB NOTES.md",
@@ -258,9 +208,6 @@
     "Troubleshooting.md",
     "Concepts/Router.md",
     "Concepts/Useful Troubleshooting Commands.md",
-    "Exam Goals/Section 1/Section 1 - Network Fundamentals.md",
-    "Describe Characteristics of Network Topology Architectures.md",
-    "Exam Goals/Section 1/Explain the role and function of Network Components.md",
     "10.1.1.55 ",
     "Exam Goals/Section 1/Concepts",
     "Exam Goals/Section 1",

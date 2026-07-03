@@ -65,4 +65,36 @@ The relationship is maintained with a Hello interval and a Dead interval.
 Hellos are sent once every Hello interval. If a Hello is not heard by the  time the Dead interval (4x the Hello interval) is over, then it is assumed that the link has failed. 
 
 Neighbors keep each other updated as topology and LSU's change.
-They will also periodically reflood already shared LSAs every 30 minutes by default.
+They will also periodically reflood already shared LSAs every 30 minutes by default
+
+##### Using Designated Routers on Ethernet Links
+The default network type, broadcast, results in the assignment of a Designated Router.
+The DR gets copies of all the LSAs from other routers and redistributed them to all routers. 
+This is good for links that have more than 2 routers.
+The DR sends data it collects to 224.0.0.5 which is the mask that targets all SPF routers.
+OSPF routers can message the DR by targeting the address 224.0.0.6. The backup DR will also receive data at this address.
+Routers that aren't a DR or BDR are called DROTHERs.
+Neighbors that reach a FULL state are called adjacent neighbors / fully adjacent. 
+
+##### Calculating Best Routes with SPF
+Routers build routes by doing mat based on the LSAs that they have. (not by direct utilization of the LSA)
+SPF algorithm calculates all possible routing paths for the route to pick the lowest metric path. 
+Knowing how routers do this math can help predict what routes will be made / chosen. 
+
+### OSPF Areas and LSAs
+OSPF Areas put interfaces of a subnet in one area with routers also inside or on the border.
+OSPF utilizes a 'backbone area' which all other areas should connect to. 
+
+##### How Areas Reduce SPF Calculation Time
+Areas lower workloads, CPU use, and bandwidth by creating specific boundaries for LSDB's
+Because of this boundary, OSPFv2 has summary information about other subnets sent to LSDBs, since the boundaries can't be crossed. 
+
+#### Link State Advertisements
+There will be one router LSA per router, one network LSA per network and one summary LSA for each subnet in a different area. 
+
+##### Router LSAs
+- These describe router ID's, IP, Interfaces and masks so all routers see the current topology.
+- They also identify neighbors so SPF can figure out what connections are present. 
+##### Network LSAs
+- These finish the job that the Router LSAs start. 
+

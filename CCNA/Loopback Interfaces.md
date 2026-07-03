@@ -1,6 +1,6 @@
 Loopback interfaces are software-only interfaces that emulate a physical interface. It is accessible from any physical interface on the device, and therefore not tied to a single interface.
 
-They are often used as test IPs or as a stable identifer for management because they never go down. 
+They are often used as test IPs or as a stable identifier for management because they never go down. 
 
 Loopback interfaces can be established with the following command:
 ```
