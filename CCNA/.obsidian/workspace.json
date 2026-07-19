@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Textbook/Chapter 23.md",
+                "file": "Textbook/Chapter 24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 23"
+              "title": "Chapter 24"
             }
           }
         ]
@@ -180,11 +180,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "33ea01cc3c2f259c",
+  "active": "0a1ce7e995502a9d",
   "lastOpenFiles": [
-    "Textbook/Chapter 22.md",
-    "Textbook/Chapter 23.md",
     "Textbook/Textbook Chapters.md",
+    "Textbook/Chapter 24.md",
+    "Textbook/Chapter 23.md",
+    "Textbook/Chapter 22.md",
     "Textbook/Chapter 21.md",
     "Textbook/Chapter 15.md",
     "Textbook/Chapter 20.md",
@@ -207,7 +208,6 @@
     "10.1.1.55 /28.md",
     "Troubleshooting.md",
     "Concepts/Router.md",
-    "Concepts/Useful Troubleshooting Commands.md",
     "10.1.1.55 ",
     "Exam Goals/Section 1/Concepts",
     "Exam Goals/Section 1",
